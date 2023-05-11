@@ -44,33 +44,16 @@
 -------
  - 飯店早餐享用到10點
  - 景點
-   - [x] 松島遊船
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] 猊鼻溪
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] 嚴美溪
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] 中尊寺、平泉寺
+   - [x] xxxx
      - 官網：
      - 價格：
      - 網路介紹：
  - 晚上住宿
-   - 地點：盛岡市[谷歌地圖]()
-   - 名稱：里士滿飯店 (Richmond Hotel Moriokaekimae)
-   - 官網：0000
+   - 地點：弘前市[谷歌地圖](https://goo.gl/maps/XhvTrSZTFAV79f117?coh=178572&entry=tt)
+   - 名稱：Dormy Inn Hirosaki
+   - 官網：[連結](https://www.hotespa.net/dormyinn/tchinese/brand/dormy/)
    - 價格：
-   - 網路介紹：
-
-
- - From **Allianz Global Benefit in Germany**
-   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
-     - Due to a great amount of missing values for disease codes, further 
+   - 網路介紹：[連結](https://mimihan.tw/dormy-inn-hirosaki/)
 
 **9月26號-星期二**
 -------
@@ -81,9 +64,9 @@
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
  - 景點
    - [x] 鶴舞之橋
-     - 官網：(https://www.tcn-tsuruta.com/gotopark.html)
+     - 官網：[連結](https://www.tcn-tsuruta.com/gotopark.html)
      - 價格：
-     - 網路介紹：(https://blog.udn.com/lysjackie1204/112253890)
+     - 網路介紹：[連結](https://blog.udn.com/lysjackie1204/112253890)
  - 晚上住宿
    - 地點：青森市[谷歌地圖]()
    - 名稱：
@@ -121,7 +104,7 @@
      - 網路介紹：[連結](https://mimihan.tw/hakkoda-ropeway/)
    - [x] 享受飯店設施
  - 晚上住宿
-   - 地點：十和田市[谷歌地圖]()
+   - 地點：十和田市[谷歌地圖](https://goo.gl/maps/ZPRs7A5V819xQdwW9?coh=178572&entry=tt)
    - 名稱：星野集團奧入瀨溪流飯店
    - 官網：[連結](https://hoshinoresorts.com/zh_tw/hotels/oirasekeiryu/)
    - 價格：
