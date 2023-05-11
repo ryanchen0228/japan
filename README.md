@@ -27,7 +27,7 @@
    - 官網：
    - 價格：
    - 網路介紹：[連結](https://wind.suzukihiro.tw/richmond-hotel-morioka-ekimae/)
-
+   - 網路介紹：[連結](https://www.youtube.com/watch?v=-poVjIrRlTU)
 
 **9月25號-星期一**
 -------
