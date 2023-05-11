@@ -148,37 +148,25 @@
      - 價格：
      - 網路介紹：
  - 晚上住宿
-   - 地點：盛岡市[谷歌地圖]()
-   - 名稱：里士滿飯店 (Richmond Hotel Moriokaekimae)
-   - 官網：0000
+   - 地點：十和田市[谷歌地圖]()
+   - 名稱：星野集團奧入瀨溪流飯店
+   - 官網：[連結](https://hoshinoresorts.com/zh_tw/hotels/oirasekeiryu/)
    - 價格：
-   - 網路介紹：
+   - 網路介紹：[連結](https://www.youtube.com/watch?v=gSU7JAaIXLs)
 
 
 **9月29號-星期五**
 -------
  - 飯店早餐享用到10點
  - 景點
-   - [x] 松島遊船
-     - 官網：
+   - [x] 奧入瀨溪散策
+     - 官網：[連結](https://www.japan.travel/tw/spot/1833/)
      - 價格：
-     - 網路介紹：
-   - [x] 猊鼻溪
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] 嚴美溪
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] 中尊寺、平泉寺
-     - 官網：
-     - 價格：
-     - 網路介紹：
+     - 網路介紹：[連結](https://www.youtube.com/watch?v=U52CL36ebNA)
  - 晚上住宿
-   - 地點：盛岡市[谷歌地圖]()
-   - 名稱：里士滿飯店 (Richmond Hotel Moriokaekimae)
-   - 官網：0000
+   - 地點：仙台市[谷歌地圖]()
+   - 名稱：
+   - 官網：
    - 價格：
    - 網路介紹：
 
@@ -191,18 +179,6 @@
      - 官網：[連結](https://sendaitravelpass.jp/1day/cn/)
      - 價格：1320日元/人
  - 景點
-   - [x] xxxx
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] xxxx
-     - 官網：
-     - 價格：
-     - 網路介紹：
-   - [x] xxxx
-     - 官網：
-     - 價格：
-     - 網路介紹：
    - [x] xxxx
      - 官網：
      - 價格：
