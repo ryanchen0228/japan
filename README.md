@@ -108,9 +108,6 @@
      - 價格：
      - 網路介紹：[連結](https://mimihan.tw/hakkoda-ropeway/)
    - [x] 成蒼大橋
-     - 官網：[連結]()
-     - 價格：
-     - 網路介紹：[連結]()
    - [x] 享受飯店設施
  - 晚上住宿
    - 地點：十和田市 - [谷歌地圖](https://goo.gl/maps/ZPRs7A5V819xQdwW9?coh=178572&entry=tt)
