@@ -1,10 +1,29 @@
 # 日本行
 
+**Educational Background**
 
+
+- [連結](https://drive.google5wn08O6DpR)
+ - From **Allianz Global Benefit in Germany**
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
+     - Due to a great amount of missing values for disease codes, further 
 123
 
 
-星期六--9月23號
+**9月23號星期六**
+ - 飛機到達時間0000
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
+   - [連結](https://drive.google5wn08O6DpR)
+
+ - 晚上住宿
+ - From **Allianz Global Benefit in Germany**
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
+     - Due to a great amount of missing values for disease codes, further 
+
+
+ - From **Allianz Global Benefit in Germany**
+   - [x] **Apply latent semantic analysis to recover 83% of the dataset**
+     - Due to a great amount of missing values for disease codes, further 
 飛機到達
 松島市飯店
 星期日--9月24號
