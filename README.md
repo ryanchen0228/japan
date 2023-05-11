@@ -11,7 +11,7 @@
    - 地點：松島市 - [谷歌地圖](https://goo.gl/maps/TEFt7gWwXoE9wSfT8?coh=178572&entry=tt)
    - 名稱：微風海灣海濱度假酒店 (Breezbay Seaside Resort Matsushima)
    - 官網：
-   - 網路介紹：[連結]()
+   - 網路介紹：
 
 **9月24號-星期日**
 -------
