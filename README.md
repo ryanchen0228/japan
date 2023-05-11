@@ -75,11 +75,15 @@
 **9月26號-星期二**
 -------
  - 飯店早餐享用到10點
+ - 租車
+   - 官網：[連結](https://tc.tabirai.net/car/?mid=591aa4a28c427)
+   - 價格：
+   - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
  - 景點
-   - [x] 松島遊船
-     - 官網：
+   - [x] 鶴舞之橋
+     - 官網：(https://www.tcn-tsuruta.com/gotopark.html)
      - 價格：
-     - 網路介紹：
+     - 網路介紹：(https://blog.udn.com/lysjackie1204/112253890)
  - 晚上住宿
    - 地點：青森市[谷歌地圖]()
    - 名稱：
