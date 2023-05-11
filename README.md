@@ -26,7 +26,7 @@
    - 名稱：里士滿飯店 (Richmond Hotel Moriokaekimae)
    - 官網：
    - 價格：
-   - 網路介紹：
+   - 網路介紹：[連結](https://www.youtube.com/watch?v=-poVjIrRlTU)
 
 
 **9月25號-星期一**
