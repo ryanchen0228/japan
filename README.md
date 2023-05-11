@@ -107,7 +107,7 @@
      - 官網：[連結](http://www.hakkoda-ropeway.jp/中文繁体)
      - 價格：
      - 網路介紹：[連結](https://mimihan.tw/hakkoda-ropeway/)
-    - [x] 成蒼大橋
+   - [x] 成蒼大橋
      - 官網：[連結]()
      - 價格：
      - 網路介紹：[連結]()
