@@ -134,6 +134,11 @@
 **9月27號-星期三**
 -------
  - 飯店早餐享用到10點
+ - 交通
+   - 青森市巴士一日券 
+     - 官網：[連結](https://www.aomori-kanko-bus.co.jp/topics.html)
+     - 價格：700日元/人
+     - 網路介紹：[連結](https://banbi.tw/aomori-bustrip/)
  - 景點
    - [x] xxxx
      - 官網：[連結]()
