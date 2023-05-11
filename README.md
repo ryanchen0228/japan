@@ -22,7 +22,7 @@
    - [x] 嚴美溪
    - [x] 中尊寺、平泉寺
  - 晚上住宿
-   - 地點：盛岡市 - [谷歌地圖]()
+   - 地點：盛岡市 - [谷歌地圖](https://goo.gl/maps/qgN8JE1zYsk2gPf29?coh=178572&entry=tt)
    - 名稱：里士滿飯店 (Richmond Hotel Moriokaekimae)
    - 官網：
    - 價格：
