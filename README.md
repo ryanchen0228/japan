@@ -102,6 +102,9 @@
    - 官網：[連結](https://tc.tabirai.net/car/?mid=591aa4a28c427)
    - 價格：
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
+ - 巴士/公車
+   - 巴士班次 [連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
+   - 
  - 景點
    - [x] 八田纜車
      - 官網：[連結](http://www.hakkoda-ropeway.jp/中文繁体)
