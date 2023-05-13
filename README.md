@@ -66,6 +66,7 @@
      - 價格：
      - 鶴舞之橋 計程車優惠價格　2022-2023 [連結](https://www.tcn-tsuruta.com/2217.html)
      - 鶴舞之橋 租腳踏車 漫遊 (推薦) 網路介紹：[連結](https://episode.cc/read/hibebeee/my.180325.150020/5)
+     - 鶴舞之橋 當地網站 詳細介紹 [連結](https://www.medetai-tsuruta.jp/category/news/info)
      - 網路介紹：[連結](https://blog.udn.com/lysjackie1204/112253890)
    - [x] 鶴之里休息站&農夫市集結合
 
