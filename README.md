@@ -211,19 +211,22 @@
  - 官網:[連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
  - 時刻表
 
-   |   | みずうみ2号  | みずうみ4号  | おいらせ21号  | みずうみ82号  | みずうみ6号  | おいらせ23号  | 
-  | 運行日  | 毎日	※運行日注意  | 毎日  | 毎日  | 毎日  | 毎日  | 
-      | 青森駅  | 8:10  | 9:00  |   |   | 11:00  |   | 	
-      | 新青森駅前  | ↓  | ↓  |   |   | 11:15  |   | 
-     | ロープウェー駅前  | 9:04  | 9:54  |   |   | 12:17	  | 
-  | 奥入瀬渓流館  | 10:11  | 11:01  | 11:31  | 13:01  | 13:24  | 16:11  | 
-  | 十和田湖(休屋  | 10:55  | 11:45  | 12:15  | 13:45  | 14:08  | 16:55  | 
-  
-  
-  
-  
-  
-| First Header  | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
+
+|   | みずうみ2号  | みずうみ4号  | おいらせ21号  | みずうみ82号  | みずうみ6号  | おいらせ23号  |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
+| 運行日  | 毎日  | ※運行日注意  | 毎日  | 毎日  | 毎日  | 毎日  |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 青森駅  | 8:10  | 9:00  |   |   | 11:00  |   |
+| 新青森駅前  | ↓  | ↓  |   |   | 11:15  |   | 
+| ロープウェー駅前  | 9:04  | 9:54  |   |   | 12:17  |   | 
+| 奥入瀬渓流館  | 10:11  | 11:01  | 11:31  | 13:01  | 13:24  | 16:11  | 
+| 十和田湖(休屋  | 10:55  | 11:45  | 12:15  | 13:45  | 14:08  | 16:55  | 
+  
+  
+  
+  
+  
+| First Header  | みずうみ2号 | みずうみ4号 | おいらせ21号 | みずうみ82号 | みずうみ6号 | おいらせ23号 |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 運行日 | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
 | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header | Second Header |
