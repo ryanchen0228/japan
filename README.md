@@ -104,6 +104,11 @@
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
  - 巴士/公車
    - 巴士班次 [連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
