@@ -181,13 +181,15 @@
 
 **青森飯店 - 推薦**
 -------
+ - 網路介紹-1：[連結](https://mimihan.tw/aomori-hotel/)
+ - 網路介紹-2：[連結](https://after-thirty.com/where-to-stay-in-aomori/)
  - 飯店A:
    - 絕景之宿淺蟲櫻花觀光酒店 (Grand Views Asamushi Sakura Kanko Hotel)
    - [谷歌地圖](https://goo.gl/maps/eGVWmo8acs4nTVYp7?coh=178572&entry=tt) 青森鉄道「浅虫温泉」站，出站徒步約13分鐘。
    - 網路介紹：[連結](https://nicklee.tw/2788/青森-淺蟲櫻花觀光飯店/)
    - 原因：一萬元內。餐點算是中等，房間的部份就是一般的溫泉飯店，然後房間有海景，這點加分不少。另外，晚上的三味線表演非常精彩，值得推薦。
  - 飯店B:
-   - 仙台阿爾蒙特飯店 (Hotel Grand Bach Sendai)
-   - [谷歌地圖](https://goo.gl/maps/bRU86gabLWfm47o68?coh=178572&entry=tt) 
-   - 網路介紹：[連結](https://wind.suzukihiro.tw/almont-sendai/)
-   - 原因：一萬元內。從仙台車站走路約5分鐘，靠近購物區，周邊餐廳很多，飯店有大浴場和投幣式洗衣機，房間也打掃的很乾淨。
+   - 青森大和ROYNET(戴瓦羅內)酒店 (Daiwa Roynet Hotel Aomori)
+   - [谷歌地圖](https://goo.gl/maps/XcrwtBAcbK5by3NS6?coh=178572&entry=tt) 
+   - 網路介紹：[連結](https://kiwas.pixnet.net/blog/post/351024790)
+   - 原因：一萬元內。Daiwa Roynet為知名連鎖飯店，房內擁有超大浴室空間及大浴缸，住宿評價非常高。好一點的房型，還會有按摩椅。設備應有盡有，拉開窗簾還可以看夜景跟市景。尤其是浴室，空間超級大，乾溼分離衛浴。而且還有超級大浴缸可泡澡，及大蓮蓬頭可淋浴。
