@@ -104,6 +104,10 @@
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
  - 巴士/公車
    - 巴士班次 [連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
  - 景點
    - [x] 八田纜車
      - 官網：[連結](http://www.hakkoda-ropeway.jp/中文繁体)
