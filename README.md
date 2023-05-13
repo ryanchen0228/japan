@@ -65,10 +65,7 @@
      - 網路介紹 - 1 [連結](https://ksk.tw/blog/post/348729904)
      - 網路介紹 - 2 [連結](https://nicklee.tw/2029/【青森縣】弘前蘋果公園/)
    - [x] 蘋果公園(りんご公園) - 巴士：
-
-
-
-
+     - 官網：[連結](https://www.hirosaki-kanko.or.jp/edit.html?id=applepark_bus)
 |  |
 | --------:|
      - 【路線バス】料金　300円
