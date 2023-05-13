@@ -183,7 +183,7 @@
 -------
  - 飯店A:
    - 絕景之宿淺蟲櫻花觀光酒店 (Grand Views Asamushi Sakura Kanko Hotel)
-   - [谷歌地圖](https://goo.gl/maps/eGVWmo8acs4nTVYp7?coh=178572&entry=tt) 
+   - [谷歌地圖](https://goo.gl/maps/eGVWmo8acs4nTVYp7?coh=178572&entry=tt) 青森鉄道「浅虫温泉」站，出站徒步約13分鐘。
    - 網路介紹：[連結](https://nicklee.tw/2788/青森-淺蟲櫻花觀光飯店/)
    - 原因：一萬元內。餐點算是中等，房間的部份就是一般的溫泉飯店，然後房間有海景，這點加分不少。另外，晚上的三味線表演非常精彩，值得推薦。
  - 飯店B:
