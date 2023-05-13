@@ -53,6 +53,7 @@
    - 價格：
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
  - 景點
+   - [x] 蘋果派地圖 [連結](https://www.hirosaki-kanko.or.jp/tcn/edit.html?id=applepie)
    - [x] 弘前城
    - [x] 銀行紀念館
    - [x] 舊市立圖書館
