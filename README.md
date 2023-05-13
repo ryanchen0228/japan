@@ -102,7 +102,7 @@
    - 官網：[連結](https://tc.tabirai.net/car/?mid=591aa4a28c427)
    - 價格：
    - 網路介紹：[連結](https://mimihan.tw/aomori-rentalcar/)
- - 巴士 - 班次 [連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
+ - 巴士班次 - 官網 [連結](https://www.jrbustohoku.co.jp/route/detail.php?r=187&rc=11)
 - 巴士班次 - 青森駅-往-十和田湖
 
 |   | みずうみ2号  | みずうみ4号  | おいらせ21号  | みずうみ82号  | みずうみ6号  | おいらせ23号  |
