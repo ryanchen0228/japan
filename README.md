@@ -4,7 +4,7 @@
 **9月23號-星期六**
 -------
  - 飛機到達時間
-   - 星宇航空官網[連結](https://www.starlux-airlines.com/zh-TW)
+   - 星宇航空官網 [連結](https://www.starlux-airlines.com/zh-TW)
  - 景點
    - [x] 無
  - 晚上住宿
