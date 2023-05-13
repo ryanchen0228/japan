@@ -164,7 +164,7 @@
  - 飛機起飛時間
 
 
-**仙台飯店推薦**
+**仙台飯店 - 推薦**
 -------
  - 網路介紹：[連結](https://www.bigfang.tw/blog/post/sendai-hotel-miyagiken)
  - 飯店A:
