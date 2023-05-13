@@ -183,10 +183,10 @@
 -------
  - 網路介紹：[連結](https://www.bigfang.tw/blog/post/sendai-hotel-miyagiken)
  - 飯店A:
-   - 仙台格蘭巴哈酒店 (Hotel Grand Bach Sendai)
-   - [谷歌地圖](https://goo.gl/maps/MEa6bruD6Xf6fMKi8?coh=178572&entry=tt) 
-   - 網路介紹：[連結](https://immegumi.pixnet.net/blog/post/232232764)
-   - 原因：一萬元內。飯店在車站東口走路約5分鐘，若是要去西口熱鬧的地方會走比較遠，若是轉乘去別的地方玩倒是相當方便。飯店備有大浴場，大廳有迎賓飲料和點心，晚上還有免費宵夜，有提供投幣式洗衣機。
+   - 絕景之宿淺蟲櫻花觀光酒店 (Grand Views Asamushi Sakura Kanko Hotel)
+   - [谷歌地圖](https://goo.gl/maps/eGVWmo8acs4nTVYp7?coh=178572&entry=tt) 
+   - 網路介紹：[連結](https://nicklee.tw/2788/青森-淺蟲櫻花觀光飯店/)
+   - 原因：一萬元內。餐點算是中等，房間的部份就是一般的溫泉飯店，然後房間有海景，這點加分不少。另外，晚上的三味線表演非常精彩，值得推薦。
  - 飯店B:
    - 仙台阿爾蒙特飯店 (Hotel Grand Bach Sendai)
    - [谷歌地圖](https://goo.gl/maps/bRU86gabLWfm47o68?coh=178572&entry=tt) 
