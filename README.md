@@ -162,3 +162,18 @@
  - 景點
    - [x] 永旺夢樂城名取
  - 飛機起飛時間
+
+
+**仙台飯店推薦**
+-------
+ - 網路介紹：[連結](https://www.bigfang.tw/blog/post/sendai-hotel-miyagiken)
+ - 飯店A:
+   - 仙台格蘭巴哈酒店 (Hotel Grand Bach Sendai)
+   - [谷歌地圖](https://goo.gl/maps/MEa6bruD6Xf6fMKi8?coh=178572&entry=tt) 
+   - 網路介紹：[連結](https://immegumi.pixnet.net/blog/post/232232764)
+   - 原因：一萬元內。飯店在車站東口走路約5分鐘，若是要去西口熱鬧的地方會走比較遠，若是轉乘去別的地方玩倒是相當方便。飯店備有大浴場，大廳有迎賓飲料和點心，晚上還有免費宵夜，有提供投幣式洗衣機。
+ - 飯店B:
+   - 仙台阿爾蒙特飯店 (Hotel Grand Bach Sendai)
+   - [谷歌地圖](https://goo.gl/maps/bRU86gabLWfm47o68?coh=178572&entry=tt) 
+   - 網路介紹：[連結](https://wind.suzukihiro.tw/almont-sendai/)
+   - 原因：一萬元內。從仙台車站走路約5分鐘，靠近購物區，周邊餐廳很多，飯店有大浴場和投幣式洗衣機，房間也打掃的很乾淨。
