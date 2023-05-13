@@ -181,7 +181,6 @@
 
 **青森飯店 - 推薦**
 -------
- - 網路介紹：[連結](https://www.bigfang.tw/blog/post/sendai-hotel-miyagiken)
  - 飯店A:
    - 絕景之宿淺蟲櫻花觀光酒店 (Grand Views Asamushi Sakura Kanko Hotel)
    - [谷歌地圖](https://goo.gl/maps/eGVWmo8acs4nTVYp7?coh=178572&entry=tt) 
