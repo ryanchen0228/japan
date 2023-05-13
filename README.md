@@ -64,6 +64,7 @@
    - [x] 鶴之舞橋 {富士見湖"丹頂鶴自然公園}
      - 官網：[連結](https://www.tcn-tsuruta.com/gotopark.html)
      - 價格：
+     - 鶴舞之橋 計程車優惠價格　2022-2023 [連結](https://www.tcn-tsuruta.com/2217.html)
      - 網路介紹：[連結](https://blog.udn.com/lysjackie1204/112253890)
    - [x] 鶴之里休息站&農夫市集結合
 
