@@ -307,7 +307,7 @@
  - 2023年開始出租自行車
  - 租借時間為9:30-16:30，費用全免！ [連結](https://www.shichinohe-kankou.jp/station/bicycle.html)
 
-**七戶 - 租自行車**
+**弘前 - 租自行車**
 -------
  - 官網資訊-1：[連結](https://www.hirosaki-kanko.or.jp/userfiles/file/UNIQ_bfae1827cc75b1ba1a2b43b39ba611b3.pdf)
  - 官網資訊-2：[連結](https://www.hirosaki-kanko.or.jp/edit.html?id=access04)
