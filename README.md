@@ -306,3 +306,15 @@
 -------
  - 2023年開始出租自行車
  - 租借時間為9:30-16:30，費用全免！ [連結](https://www.shichinohe-kankou.jp/station/bicycle.html)
+
+**七戶 - 租自行車**
+-------
+ - 官網資訊-1：[連結](https://www.hirosaki-kanko.or.jp/userfiles/file/UNIQ_bfae1827cc75b1ba1a2b43b39ba611b3.pdf)
+ - 官網資訊-2：[連結](https://www.hirosaki-kanko.or.jp/edit.html?id=access04)
+ - 活動期間：2023年5月8日（週一）～11月末（預定）
+ - 5站租借
+   - 津輕藩睡魔村 / 9:00-16:00
+   - 弘前市觀光中心 / 9:00-16:00
+   - 弘前市觀光問訊處（JR弘前站1樓） / 9:00-16:00
+   - 弘前町中Information Center / 9:00-16:00
+   - 蘋果公園(りんご公園) / 9:00-16:00 **如果租借和歸還地點不同也沒關係。**（電動自行車只能在弘前市旅遊中心和弘前市旅遊信息中心租借/歸還。）
