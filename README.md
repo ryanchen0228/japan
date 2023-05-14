@@ -332,12 +332,14 @@
 
 **角館 - 租自行車**
 -------
- - 官網資訊-1：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
+ - 網路介紹：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
 
-
+**秋田 - 林氏璧**
+-------
+ - 網路介紹：[連結](https://linshibi.com/?p=18230)
 
 **日本駕照 - 換發**
 -------
  - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
  - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
- - 網路分享：[連結](https://miha.tw/jdrive/)
+ - 網路介紹：[連結](https://miha.tw/jdrive/)
