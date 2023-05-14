@@ -317,9 +317,9 @@
    - 普通自転車　 1回／台　　500円
    - 電動自転車　 1回／台　1,000円
  - 5站租借
-   - 津輕藩睡魔村 [谷歌地圖](https://goo.gl/maps/QJqYQ7bSb8Jg8brX7?coh=178572&entry=tt) / 9:00-16:00 
-   - 弘前市觀光中心 / 9:00-16:00
-   - 弘前市觀光問訊處（JR弘前站1樓） / 9:00-16:00
-   - 弘前町中Information Center / 9:00-16:00
+   - 津輕藩睡魔村(津軽藩ねぷた村) [谷歌地圖](https://goo.gl/maps/fHNjN6c1zzCmkLdw9?coh=178572&entry=tt) / 9:00-16:00 
+   - 弘前市觀光中心(弘前市立観光館) [谷歌地圖](https://goo.gl/maps/hYKYj4bf3USwVoQC9?coh=178572&entry=tt) / 9:00-16:00
+   - 弘前市觀光問訊處(弘前市観光案内所)（JR弘前站1樓）[谷歌地圖](https://goo.gl/maps/dFFMyfaDX5FE6qKZ9?coh=178572&entry=tt) / 9:00-16:00
+   - 弘前町中Information Center(弘前市まちなか情報センター) [谷歌地圖](https://goo.gl/maps/Un2zJ3sMtNsnBDtF6?coh=178572&entry=tt) / 9:00-16:00
    - 蘋果公園(りんご公園) / 9:00-16:00 **如果租借和歸還地點不同也沒關係。**（電動自行車只能在弘前市旅遊中心和弘前市旅遊信息中心租借/歸還。）
 
