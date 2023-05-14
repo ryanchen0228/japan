@@ -311,6 +311,7 @@
 -------
  - 官網資訊-1：[連結](https://www.hirosaki-kanko.or.jp/userfiles/file/UNIQ_bfae1827cc75b1ba1a2b43b39ba611b3.pdf)
  - 官網資訊-2：[連結](https://www.hirosaki-kanko.or.jp/edit.html?id=access04)
+ - 官網資訊-3：[連結](https://konantetsudo.jp/2023/03/30/cyclenet-hirosaki2023/)
  - 活動期間：2023年5月8日（週一）～11月末（預定）
  - 當天借還，17:00還車。
  - 自転車の種類と料金
@@ -323,3 +324,7 @@
    - 弘前町中Information Center(弘前市まちなか情報センター) [谷歌地圖](https://goo.gl/maps/Un2zJ3sMtNsnBDtF6?coh=178572&entry=tt) / 9:00-16:00
    - 蘋果公園(りんご公園) / 9:00-16:00 **如果租借和歸還地點不同也沒關係。**（電動自行車只能在弘前市旅遊中心和弘前市旅遊信息中心租借/歸還。）
 
+**十和田湖 - 租自行車**
+-------
+ - 官網資訊-1：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
+ - 官網資訊-2：繞著十和田湖騎 [連結](https://chiririn.jp/portal/cycling_course/2022/10/content-1.html)
