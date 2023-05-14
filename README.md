@@ -328,3 +328,16 @@
 -------
  - 官網資訊-1：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
  - 官網資訊-2：繞著十和田湖騎 [連結](https://chiririn.jp/portal/cycling_course/2022/10/content-1.html)
+
+
+**角館 - 租自行車**
+-------
+ - 官網資訊-1：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
+
+
+
+**日本駕照 - 換發**
+-------
+ - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
+ - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
+ - 網路分享：[連結](https://miha.tw/jdrive/)
