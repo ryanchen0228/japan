@@ -333,6 +333,12 @@
 **角館 - 租自行車**
 -------
  - 網路介紹：[連結](https://news.m.pchome.com.tw/travel/tromnimedia/20230503/index-68307560039627301015.html)
+ - 官網資訊-1：[連結](https://r.goope.jp/guesthouse-choux/menu)
+ - 官網資訊-2：[連結](https://hirotravel.com/kakunodate/rentasaikuru.html)
+ - 官網資訊-3： 花場タクシーレンタサイクル [連結](https://www.navitime.co.jp/poi?spot=02055-152)
+   - 1時間 -- 300円(30分ごとに150円)
+   - 4時間(半日コース) -- 1,000円
+   - 5時間以上(17時まで) -- 1,500円
 
 **秋田 - 林氏璧**
 -------
