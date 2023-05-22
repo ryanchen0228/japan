@@ -12,18 +12,14 @@
 -------
  - 方式 1
  - <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/%E4%B8%8B%E4%BB%8A%E5%B8%82-%E8%BC%95%E4%BA%95%E6%BE%A4-%E6%96%B9%E5%BC%8F1.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_1.png">
 </p>
  - 方式 2
  - <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_1.png">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_2.png">
 </p>
  - 方式 3
  - <p align="center">
-  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_2.png">
-</p>
-
-<p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_3.png">
 </p>
 
