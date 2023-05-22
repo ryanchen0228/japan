@@ -12,7 +12,7 @@
 -------
  - 有3個方式，時間都是2小時50分鐘
  - 方式 1
-<p align="center">
+   - <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_1.png">
 </p>
  - 方式 2
