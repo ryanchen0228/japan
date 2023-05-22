@@ -1,6 +1,12 @@
 日本行
 ====
 
+**路線圖 - 版本 - 5月21日**
+-------
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/kuanmin/japan/blob/main/route_all.png">
+</p>
+
 **東武鐵道**
 -------
  - 高解析度 - 圖 [連結](https://www.tobu.co.jp/foreign/tcn/pdf/routeMap.pdf)
