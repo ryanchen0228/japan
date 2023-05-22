@@ -1,7 +1,7 @@
 日本行
 ====
 
-**東武鐵道 - 圖**
+**東武鐵道**
 -------
  - 高解析度 - 圖 [連結](https://www.tobu.co.jp/foreign/tcn/pdf/routeMap.pdf)
  - 不只一條，是很多條，一個大蜘蛛網
