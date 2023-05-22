@@ -5,7 +5,7 @@
 -------
  - 高解析度 - 圖 [連結](https://www.tobu.co.jp/foreign/tcn/pdf/routeMap.pdf)
  - 不只一條，是很多條，一個大蜘蛛網
- - 
+ - 網路介紹：[連結](https://www.bigfang.tw/blog/post/tobu-nikko)
 
 **栃木 - 景點**
 -------
