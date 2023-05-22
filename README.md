@@ -12,15 +12,15 @@
 -------
  
  - 方式 1
- - <p align="center">
+<p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_1.png">
 </p>
  - 方式 2
- - <p align="center">
+<p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_2.png">
 </p>
  - 方式 3
- - <p align="center">
+<p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/route_3.png">
 </p>
 
