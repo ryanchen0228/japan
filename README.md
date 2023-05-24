@@ -1,6 +1,18 @@
 日本行
 ====
 
+
+**輕井澤 - 飯店**
+-------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/nikko-hotels/)
+ - 中禪寺湖溫泉花庵飯店
+   - 網路介紹：[連結](https://minmin413.pixnet.net/blog/post/331881376-冬遊日光│住宿篇-美到冒泡中禪寺湖-經濟又)
+ - Asaya飯店
+   - 網路介紹：[連結](https://livejapan.com/zh-tw/in-tokyo/in-pref-tochigi/in-nikko/article-a0002738/)
+ - 鬼怒川溫泉酒店 (Kinugawa Onsen Hotel)
+   - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
+
+
 **輕井澤 - 飯店**
 -------
  - 王子大飯店
