@@ -15,7 +15,7 @@
 
 **輕井澤 - 飯店**
 -------
- - 網路介紹 - 推薦列表 [連結]([)](https://mimihan.tw/karuizawa-hotels/)
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
  - 王子大飯店
    - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
 
