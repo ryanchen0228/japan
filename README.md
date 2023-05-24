@@ -21,6 +21,7 @@
 
 **潢浜 - 飯店**
 -------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/yokohama-hotels/)
  - 橫濱洲際渡假飯店
    - 網路介紹：[連結](https://eggface45.pixnet.net/blog/post/224341727)
    - 官方網站：[連結](https://www.icyokohama-grand.com)
