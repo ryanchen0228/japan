@@ -5,7 +5,13 @@
 -------
  - 王子大飯店
    - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
-   - 
+
+**潢浜 - 飯店**
+-------
+ - 橫濱洲際渡假飯店
+   - 網路介紹：[連結](https://eggface45.pixnet.net/blog/post/224341727)
+   - 官方網站：[連結](https://www.icyokohama-grand.com)
+   - 谷歌地圖：[連結](https://goo.gl/maps/j89o3weEshAGwjfs5?coh=178572&entry=tt)
 
 **路線圖 - 版本 - 5月21日**
 -------
