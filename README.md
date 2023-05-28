@@ -1,11 +1,25 @@
 日本行
 ====
 
+**千葉&銚子&犬吠 - 介紹**
+-------
+ - 網路介紹-1：[連結](https://www.foodtigertw.com/blog/post/46416634)
+ - 網路介紹-2：[連結](https://www.choshikanko.com/sushi-pass-tw/)
+ - 網路介紹-3：[連結](https://journey.tw/inubosaki-lighthouse/)
+ - 網路介紹-4：[連結](https://aliciatseng.net/blog/post/35160601-東京近郊%40千葉_銚子電鐵沿線散策_犬吠站（い)
+ - 網路介紹-5：[連結](https://www.fun-japan.jp/tw/articles/13210)
+ - 網路介紹-6：[連結](https://www.bubu-jp.com/archives/22489)
+ - 網路介紹-7：[連結](https://tokyo.letsgojp.com/archives/77645/)
+ - 網路介紹-8：[連結](https://littlebeartw.com/kantoonsen_2_3/)
+ - 
+
 **銚子 - 飯店**
 -------
  - 銚子廣場飯店 (Choshi Plaza Hotel)
+   - 網路介紹：[連結](https://www.travalearth.com/post-31710365/)
    - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
  - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
+   - 網路介紹：連結
    - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
 
 
