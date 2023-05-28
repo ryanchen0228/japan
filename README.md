@@ -4,9 +4,9 @@
 **銚子 - 飯店**
 -------
  - 銚子廣場飯店 (Choshi Plaza Hotel)
-   - 網路介紹：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
+   - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
  - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
-   - 網路介紹：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
+   - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
 
 
 **日光 - 飯店**
