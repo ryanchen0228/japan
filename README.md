@@ -11,7 +11,14 @@
  - 網路介紹-6：[連結](https://www.bubu-jp.com/archives/22489)
  - 網路介紹-7：[連結](https://tokyo.letsgojp.com/archives/77645/)
  - 網路介紹-8：[連結](https://littlebeartw.com/kantoonsen_2_3/)
- - 
+ - 網路介紹-9：[連結](https://tw.wamazing.com/media/article/a-2635/)
+ - 網路介紹-10：[連結](https://yukablog.com/japan-chiba-choshi-onedaytrip/)
+ - 網路介紹-11：[連結](https://blog.xuite.net/mega112/blog/19645902)
+ - 網路介紹-12：[連結](https://www.japan-walker.net/tw/articles/328)
+ - 網路介紹-13：[連結](https://hiyori.cc/article/千葉%EF%BC%8E銚子一日遊：搭乘銚子電鐵，來場沿海復古)
+ - 網路介紹-14 - 影片：[連結](https://www.youtube.com/watch?v=BCwCuabipxY)
+ - 網路介紹-12：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
+ - 網路介紹-12：連結
 
 **銚子 - 飯店**
 -------
@@ -19,7 +26,8 @@
    - 網路介紹：[連結](https://www.travalearth.com/post-31710365/)
    - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
  - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
-   - 網路介紹：連結
+   - 官方網站：[連結](http://www.inubou.co.jp/lg/lg_cn/)
+   - 網路介紹：[連結](https://www.facebook.com/photo/?fbid=343200793171554&set=ecnf.100063634477856&locale=ms_MY)
    - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
 
 
