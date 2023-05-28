@@ -17,12 +17,12 @@
  - 網路介紹-12：[連結](https://www.japan-walker.net/tw/articles/328)
  - 網路介紹-13：[連結](https://hiyori.cc/article/千葉%EF%BC%8E銚子一日遊：搭乘銚子電鐵，來場沿海復古)
  - 網路介紹-14 - 影片：[連結](https://www.youtube.com/watch?v=BCwCuabipxY)
- - 網路介紹-12：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
- - 網路介紹-12：連結
+ - 網路介紹-15：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
 
 **銚子 - 飯店**
 -------
  - 銚子廣場飯店 (Choshi Plaza Hotel)
+   - 官方網站：[連結](https://www.choshiplaza.com)
    - 網路介紹：[連結](https://www.travalearth.com/post-31710365/)
    - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
  - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
