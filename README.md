@@ -1,6 +1,15 @@
 日本行
 ====
 
+**日本駕照 - 換發**
+-------
+ - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
+ - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
+ - 網路介紹：[連結](https://miha.tw/jdrive/)
+
+
+
+
 **千葉&銚子&犬吠 - 介紹**
 -------
  - 網路介紹-1：[連結](https://www.foodtigertw.com/blog/post/46416634)
@@ -137,12 +146,6 @@
    - [ ] 韮山反射爐
    - [ ] 下田市
    - [ ] 伊豆全景公園
-
-**日本駕照 - 換發**
--------
- - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
- - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
- - 網路介紹：[連結](https://miha.tw/jdrive/)
 
 
 ====
