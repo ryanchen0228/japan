@@ -27,6 +27,10 @@
  - 網路介紹-13：[連結](https://hiyori.cc/article/千葉%EF%BC%8E銚子一日遊：搭乘銚子電鐵，來場沿海復古)
  - 網路介紹-14 - 影片：[連結](https://www.youtube.com/watch?v=BCwCuabipxY)
  - 網路介紹-15：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
+ - 網路介紹-14 - 影片：[連結](https://youtu.be/ay64XoCP7GE)
+
+
+
 
 **銚子 - 飯店**
 -------
