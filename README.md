@@ -55,11 +55,19 @@
    - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
 
 
+
+
+
 **輕井澤 - 飯店**
 -------
  - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
  - 王子大飯店
    - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
+
+**草津溫泉 - 飯店**
+-------
+ - 網路介紹1 - [連結](https://mimihan.tw/kusatsu/)
+ - 網路介紹2 - [連結](https://www.viviantrip.com/kusatsu-onsen/)
 
 **潢浜 - 飯店**
 -------
