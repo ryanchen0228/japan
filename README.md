@@ -42,7 +42,11 @@
  - 鬼怒川溫泉酒店 (Kinugawa Onsen Hotel)
    - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
 
-
+**輕井澤 - 飯店**
+-------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
+ - 王子大飯店
+   - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
 **日本駕照 - 換發**
 -------
  - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
@@ -78,11 +82,7 @@
 
 
 
-**輕井澤 - 飯店**
--------
- - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
- - 王子大飯店
-   - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
+
 
 **草津溫泉 - 飯店**
 -------
