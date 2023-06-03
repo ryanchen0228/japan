@@ -4,8 +4,8 @@
 **行程 - 住宿**
 -------
  - 21日星期六 - 銚子/犬吠 (兩者皆可)
- - 22日星期日 - 潢兵 (近潢兵站)
- - 23日星期一 - 東京 (近東京站)
+ - 22日星期日 - 潢兵 (潢兵站)
+ - 23日星期一 - 東京 (銀座區)
  - 24日星期二 - 中禪寺 (日光區域) 
  - 25日星期三 - 鬼怒川 (日光區域)
  - 26日星期四 - 下今市 (日光區域)
@@ -32,6 +32,10 @@
    - 官方網站：[連結](https://www.icyokohama-grand.com)
    - 谷歌地圖：[連結](https://goo.gl/maps/j89o3weEshAGwjfs5?coh=178572&entry=tt)
 
+**東京銀座 - 飯店**
+-------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/tokyo-new-hotels/)
+
 **日光區域 - 飯店**
 -------
  - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/nikko-hotels/)
@@ -47,6 +51,12 @@
  - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
  - 王子大飯店
    - 網路介紹：[連結](https://mimihan.tw/prince-karuizawa/)
+
+
+
+
+
+
 **日本駕照 - 換發**
 -------
  - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
