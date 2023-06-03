@@ -9,7 +9,7 @@
  - 24日星期二 - 中禪寺 (日光區域) 
  - 25日星期三 - 鬼怒川 (日光區域)
  - 26日星期四 - 下今市 (日光區域)
- - 27日星期五 - (中)輕井澤站附近
+ - 27日星期五 - 草津 (輕井澤區域)
  - 28日星期六 - (中)輕井澤站附近
 
 
@@ -46,6 +46,11 @@
  - 鬼怒川溫泉酒店 (Kinugawa Onsen Hotel)
    - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
 
+**草津溫泉 - 飯店**
+-------
+ - 網路介紹1 - [連結](https://mimihan.tw/kusatsu/)
+ - 網路介紹2 - [連結](https://www.viviantrip.com/kusatsu-onsen/)
+
 **輕井澤 - 飯店**
 -------
  - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/karuizawa-hotels/)
@@ -57,31 +62,6 @@
 
 
 
-**日本駕照 - 換發**
--------
- - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
- - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
- - 網路介紹：[連結](https://miha.tw/jdrive/)
-
-
-**千葉&銚子&犬吠 - 介紹**
--------
- - 網路介紹-1：[連結](https://www.foodtigertw.com/blog/post/46416634)
- - 網路介紹-2：[連結](https://www.choshikanko.com/sushi-pass-tw/)
- - 網路介紹-3：[連結](https://journey.tw/inubosaki-lighthouse/)
- - 網路介紹-4：[連結](https://aliciatseng.net/blog/post/35160601-東京近郊%40千葉_銚子電鐵沿線散策_犬吠站（い)
- - 網路介紹-5：[連結](https://www.fun-japan.jp/tw/articles/13210)
- - 網路介紹-6：[連結](https://www.bubu-jp.com/archives/22489)
- - 網路介紹-7：[連結](https://tokyo.letsgojp.com/archives/77645/)
- - 網路介紹-8：[連結](https://littlebeartw.com/kantoonsen_2_3/)
- - 網路介紹-9：[連結](https://tw.wamazing.com/media/article/a-2635/)
- - 網路介紹-10：[連結](https://yukablog.com/japan-chiba-choshi-onedaytrip/)
- - 網路介紹-11：[連結](https://blog.xuite.net/mega112/blog/19645902)
- - 網路介紹-12：[連結](https://www.japan-walker.net/tw/articles/328)
- - 網路介紹-13：[連結](https://hiyori.cc/article/千葉%EF%BC%8E銚子一日遊：搭乘銚子電鐵，來場沿海復古)
- - 網路介紹-14 - 影片：[連結](https://www.youtube.com/watch?v=BCwCuabipxY)
- - 網路介紹-15：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
- - 網路介紹-16 - 影片：[連結](https://youtu.be/ay64XoCP7GE)
 
 
 
@@ -92,12 +72,6 @@
 
 
 
-
-
-**草津溫泉 - 飯店**
--------
- - 網路介紹1 - [連結](https://mimihan.tw/kusatsu/)
- - 網路介紹2 - [連結](https://www.viviantrip.com/kusatsu-onsen/)
 
 
 
@@ -300,6 +274,34 @@
    - 官網：
    - 價格：
    - 網路介紹：
+
+
+
+**千葉&銚子&犬吠 - 介紹**
+-------
+ - 網路介紹-1：[連結](https://www.foodtigertw.com/blog/post/46416634)
+ - 網路介紹-2：[連結](https://www.choshikanko.com/sushi-pass-tw/)
+ - 網路介紹-3：[連結](https://journey.tw/inubosaki-lighthouse/)
+ - 網路介紹-4：[連結](https://aliciatseng.net/blog/post/35160601-東京近郊%40千葉_銚子電鐵沿線散策_犬吠站（い)
+ - 網路介紹-5：[連結](https://www.fun-japan.jp/tw/articles/13210)
+ - 網路介紹-6：[連結](https://www.bubu-jp.com/archives/22489)
+ - 網路介紹-7：[連結](https://tokyo.letsgojp.com/archives/77645/)
+ - 網路介紹-8：[連結](https://littlebeartw.com/kantoonsen_2_3/)
+ - 網路介紹-9：[連結](https://tw.wamazing.com/media/article/a-2635/)
+ - 網路介紹-10：[連結](https://yukablog.com/japan-chiba-choshi-onedaytrip/)
+ - 網路介紹-11：[連結](https://blog.xuite.net/mega112/blog/19645902)
+ - 網路介紹-12：[連結](https://www.japan-walker.net/tw/articles/328)
+ - 網路介紹-13：[連結](https://hiyori.cc/article/千葉%EF%BC%8E銚子一日遊：搭乘銚子電鐵，來場沿海復古)
+ - 網路介紹-14 - 影片：[連結](https://www.youtube.com/watch?v=BCwCuabipxY)
+ - 網路介紹-15：[連結](https://traveltotokyo.wordpress.com/2015/12/28/準備好在日本迎接第一道曙光了嗎？犬吠埼日出：6/)
+ - 網路介紹-16 - 影片：[連結](https://youtu.be/ay64XoCP7GE)
+
+
+**日本駕照 - 換發**
+-------
+ - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
+ - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
+ - 網路介紹：[連結](https://miha.tw/jdrive/)
 
 
 
