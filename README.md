@@ -13,13 +13,41 @@
  - 28日星期六 - (中)輕井澤站附近
 
 
+**銚子/犬吠 - 飯店**
+-------
+ - 銚子廣場飯店 (Choshi Plaza Hotel)
+   - 官方網站：[連結](https://www.choshiplaza.com)
+   - 網路介紹：[連結](https://www.travalearth.com/post-31710365/)
+   - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
+ - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
+   - 官方網站：[連結](http://www.inubou.co.jp/lg/lg_cn/)
+   - 網路介紹：[連結](https://www.facebook.com/photo/?fbid=343200793171554&set=ecnf.100063634477856&locale=ms_MY)
+   - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
+
+**潢浜 - 飯店**
+-------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/yokohama-hotels/)
+ - 橫濱洲際渡假飯店
+   - 網路介紹：[連結](https://eggface45.pixnet.net/blog/post/224341727)
+   - 官方網站：[連結](https://www.icyokohama-grand.com)
+   - 谷歌地圖：[連結](https://goo.gl/maps/j89o3weEshAGwjfs5?coh=178572&entry=tt)
+
+**日光區域 - 飯店**
+-------
+ - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/nikko-hotels/)
+ - 中禪寺湖溫泉花庵飯店
+   - 網路介紹：[連結](https://minmin413.pixnet.net/blog/post/331881376-冬遊日光│住宿篇-美到冒泡中禪寺湖-經濟又)
+ - Asaya飯店
+   - 網路介紹：[連結](https://livejapan.com/zh-tw/in-tokyo/in-pref-tochigi/in-nikko/article-a0002738/)
+ - 鬼怒川溫泉酒店 (Kinugawa Onsen Hotel)
+   - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
+
+
 **日本駕照 - 換發**
 -------
  - 官網資訊-1：[連結](https://www.gov.tw/News3_Content.aspx?n=2&s=376856)
  - 官網資訊-2：[連結](https://www.thb.gov.tw/cp.aspx?n=251)
  - 網路介紹：[連結](https://miha.tw/jdrive/)
-
-
 
 
 **千葉&銚子&犬吠 - 介紹**
@@ -44,30 +72,8 @@
 
 
 
-**銚子 - 飯店**
--------
- - 銚子廣場飯店 (Choshi Plaza Hotel)
-   - 官方網站：[連結](https://www.choshiplaza.com)
-   - 網路介紹：[連結](https://www.travalearth.com/post-31710365/)
-   - 谷歌地圖：[連結](https://goo.gl/maps/zxTG5CUW14qctnn29?coh=178572&entry=tt)
- - 犬吠埼觀光飯店 (Inubousaki Kanko Hotel)
-   - 官方網站：[連結](http://www.inubou.co.jp/lg/lg_cn/)
-   - 網路介紹：[連結](https://www.facebook.com/photo/?fbid=343200793171554&set=ecnf.100063634477856&locale=ms_MY)
-   - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
 
 
-**日光 - 飯店**
--------
- - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/nikko-hotels/)
- - 中禪寺湖溫泉花庵飯店
-   - 網路介紹：[連結](https://minmin413.pixnet.net/blog/post/331881376-冬遊日光│住宿篇-美到冒泡中禪寺湖-經濟又)
- - Asaya飯店
-   - 網路介紹：[連結](https://livejapan.com/zh-tw/in-tokyo/in-pref-tochigi/in-nikko/article-a0002738/)
- - 鬼怒川溫泉酒店 (Kinugawa Onsen Hotel)
-   - 網路介紹：[連結](https://tokyo.letsgojp.com/archives/552946/)
-
-
-https://tobutoptours.com/tw/nikko-all-area-pass.html
 
 
 
@@ -83,13 +89,7 @@ https://tobutoptours.com/tw/nikko-all-area-pass.html
  - 網路介紹1 - [連結](https://mimihan.tw/kusatsu/)
  - 網路介紹2 - [連結](https://www.viviantrip.com/kusatsu-onsen/)
 
-**潢浜 - 飯店**
--------
- - 網路介紹 - 推薦列表 [連結](https://mimihan.tw/yokohama-hotels/)
- - 橫濱洲際渡假飯店
-   - 網路介紹：[連結](https://eggface45.pixnet.net/blog/post/224341727)
-   - 官方網站：[連結](https://www.icyokohama-grand.com)
-   - 谷歌地圖：[連結](https://goo.gl/maps/j89o3weEshAGwjfs5?coh=178572&entry=tt)
+
 
 **路線圖 - 版本 - 5月21日**
 -------
