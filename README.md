@@ -31,6 +31,7 @@
    - 網路介紹：[連結](https://eggface45.pixnet.net/blog/post/224341727)
    - 官方網站：[連結](https://www.icyokohama-grand.com)
    - 谷歌地圖：[連結](https://goo.gl/maps/j89o3weEshAGwjfs5?coh=178572&entry=tt)
+   - Blog:https://eggface45.pixnet.net/blog/post/224341727
 
 **東京銀座 - 飯店**
 -------
